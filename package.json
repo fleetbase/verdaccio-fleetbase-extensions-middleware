@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/middleware-fleetbase-extensions-plugin",
+    "name": "@fleetbase/verdaccio-fleetbase-extensions-middleware",
     "version": "0.0.1",
     "description": "Middleware to handle querying and listing of published extensions.",
     "main": "lib/src/index.js",
