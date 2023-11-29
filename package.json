@@ -28,7 +28,7 @@
         "fleetbase-extensions-repository"
     ],
     "license": "MIT",
-    "repository": "<%= repository %>",
+    "repository": "https://github.com/fleetbase/verdaccio-fleetbase-extensions-middleware",
     "author": "Fleetbase Pte Ltd <hello@fleetbase.io>",
     "scripts": {
         "build": "tsc",
