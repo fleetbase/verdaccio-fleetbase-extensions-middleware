@@ -39,6 +39,7 @@
         "@types/node": "12.12.5",
         "@typescript-eslint/eslint-plugin": "5.26.0",
         "@typescript-eslint/parser": "5.26.0",
+        "@verdaccio/legacy-types": "^1.0.1",
         "@verdaccio/types": "10.5.2",
         "eslint": "8.21.0",
         "jest": "28.1.3",
